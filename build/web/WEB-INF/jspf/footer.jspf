@@ -1,0 +1,15 @@
+
+
+            <div id="footer">
+                <br>
+                <hr id="footerDivider">
+                <p id="footerText" class="reallySmallText">
+                    <a href="<c:url value='privacypolicy'/>"><fmt:message key="privacy" /></a>
+                    &nbsp;&nbsp;::&nbsp;&nbsp;
+                    <a href="<c:url value='contactUs'/>"><fmt:message key="contact" /></a>
+                    &nbsp;&nbsp;&copy;&nbsp;&nbsp;
+                    2017 the zero store</p>
+            </div>
+        </div>
+    </body>
+</html>
